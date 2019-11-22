@@ -12,3 +12,5 @@ a.	Oftentimes, to get reactions and the full excitement from horror, you would h
 3)	Critiques or limitations of VR for my goals?
 
 a.	I felt that the scare from being caught by the monster is not scary enough for losing to feel like it has any consequences. In further iterations of this game, I aim to make a properly fleshed out jumpscare in order to “punish” getting caught by the monster. Currently, VR makes the jumpscare wonky if you can try to look away from the monster as it happens, so it was not included in the final product.
+
+**Due to Github storage issues, the version here is not the final version. You can find the final version, as well as a video of gameplay, here: https://drive.google.com/drive/folders/1cCLbxUp7BnEHG8QyxFzZsU4MFfusXx28?usp=sharing.
